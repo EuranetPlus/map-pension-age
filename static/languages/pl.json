@@ -1,13 +1,13 @@
 {
-  "heading": "Obecny normalny wiek emerytalny we wszystkich krajach UE",
-  "subheading": "Dla osoby, która pracuje nieprzerwanie od 22 roku życia i przechodzi na emeryturę w 2020 roku; Średnia UE: 63,9",
+  "heading": "Obecny normalny wiek emerytalny w Europie",
+  "subheading": "Dla osoby, która pracowała nieprzerwanie od 22. roku życia i przechodzi na emeryturę w 2020 r. średnia w UE: 63,9",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "lata",
+  "tooltip1": "lat",
   "textSourceDescription": "Źródło",
   "textSource": "OECD",
-  "textNoteDescription": "Uwaga",
+  "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

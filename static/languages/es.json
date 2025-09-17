@@ -1,13 +1,13 @@
 {
-  "heading": "Edad normal de jubilación actual en los países de la UE",
-  "subheading": "Para una persona que ha trabajado continuamente desde los 22 años y se jubila en 2020; Media UE: 63,9",
-  "legend1": "Datos no disponibles",
+  "heading": "Edad normal de jubilación actual en Europa",
+  "subheading": "Para una persona que ha trabajado de forma continua desde los 22 años y se jubila en 2020; media de la UE: 63,9",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "años",
   "textSourceDescription": "Fuente",
   "textSource": "OCDE",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
+  "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textCountryClick": "Haga clic para más información"
 }

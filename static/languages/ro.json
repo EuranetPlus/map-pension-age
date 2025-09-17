@@ -1,13 +1,13 @@
 {
-  "heading": "Vârsta normală actuală de pensionare în țările UE",
-  "subheading": "Pentru o persoană care a lucrat continuu de la vârsta de 22 de ani și se pensionează în 2020; Media UE: 63,9",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Vârsta normală de pensionare actuală în Europa",
+  "subheading": "Pentru o persoană care a lucrat continuu de la vârsta de 22 de ani și se pensionează în 2020; media UE: 63,9",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "ani",
   "textSourceDescription": "Sursă",
   "textSource": "OCDE",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Trenutna normalna dob za odlazak u mirovinu u zemljama EU-a",
-  "subheading": "Za osobu koja je neprekidno radila od 22. godine i odlazi u mirovinu 2020. godine; Prosjek EU: 63,9",
+  "heading": "Trenutna normalna dob za odlazak u mirovinu diljem Europe",
+  "subheading": "Za osobu koja je neprekidno radila od 22. godine i odlazi u mirovinu 2020. godine; prosjek EU: 63,9",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "godine",
   "textSourceDescription": "Izvor",
   "textSource": "OECD",
   "textNoteDescription": "Bilješka",
   "textNote": "",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
   "textCountryClick": "Kliknite za više informacija"
 }

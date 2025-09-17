@@ -1,13 +1,13 @@
 {
-  "heading": "Jelenlegi normál nyugdíjkorhatár az EU-országokban",
-  "subheading": "22 éves kora óta folyamatosan dolgozó és 2020-ban nyugdíjba vonuló magánszemélynek; EU átlag: 63,9",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Jelenlegi szokásos nyugdíjkorhatár Európában",
+  "subheading": "Egy 22 éves kora óta folyamatosan dolgozó és 2020-ban nyugdíjba vonuló személy esetében az EU átlag: 63,9",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "évek",
   "textSourceDescription": "Forrás",
   "textSource": "OECD",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

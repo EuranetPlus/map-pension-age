@@ -1,13 +1,13 @@
 {
-  "heading": "Dabartinis įprastas pensinis amžius visose ES šalyse",
-  "subheading": "Asmeniui, kuris nepertraukiamai dirbo nuo 22 metų ir išeina į pensiją 2020 m.; ES vidurkis: 63,9",
+  "heading": "Dabartinis įprastas pensinis amžius visoje Europoje",
+  "subheading": "Asmeniui, kuris nepertraukiamai dirbo nuo 22 metų ir išeis į pensiją 2020 m.; ES vidurkis: 63,9",
   "legend1": "Nėra duomenų",
   "tooltip1": "metų",
   "textSourceDescription": "Šaltinis",
   "textSource": "EBPO",
   "textNoteDescription": "Pastaba",
   "textNote": "",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

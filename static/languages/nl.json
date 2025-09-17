@@ -1,13 +1,13 @@
 {
-  "heading": "Huidige normale pensioenleeftijd in alle EU-landen",
-  "subheading": "Voor een persoon die onafgebroken heeft gewerkt sinds de leeftijd van 22 jaar en met pensioen gaat in 2020; EU-gemiddelde: 63,9",
+  "heading": "Huidige normale pensioenleeftijd in heel Europa",
+  "subheading": "Voor een persoon die sinds zijn 22e onafgebroken heeft gewerkt en in 2020 met pensioen gaat; EU-gemiddelde: 63,9",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "jaar",
+  "tooltip1": "jaren",
   "textSourceDescription": "Bron",
   "textSource": "OESO",
   "textNoteDescription": "Opmerking",
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

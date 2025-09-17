@@ -1,13 +1,13 @@
 {
-  "heading": "Trenutna običajna upokojitvena starost v državah EU",
-  "subheading": "Za posameznika, ki je delal neprekinjeno od 22. leta in se v letu 2020 upokoji; Povprečje EU: 63,9",
-  "legend1": "Ni podatkov",
+  "heading": "Trenutna običajna upokojitvena starost v Evropi",
+  "subheading": "Za posameznika, ki je neprekinjeno delal od 22. leta starosti in se upokojuje leta 2020; povprečje EU: 63,9",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "leta",
   "textSourceDescription": "Vir",
   "textSource": "OECD",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
   "textCountryClick": "Kliknite za več informacij"
 }

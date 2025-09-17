@@ -1,13 +1,13 @@
 {
-  "heading": "Pašreizējais parastais pensionēšanās vecums ES valstīs",
-  "subheading": "Personai, kura ir nepārtraukti strādājusi kopš 22 gadu vecuma un dodas pensijā 2020. gadā; ES vidējais: 63,9",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "gadiem",
+  "heading": "Pašreizējais parastais pensionēšanās vecums visā Eiropā",
+  "subheading": "Personai, kura nepārtraukti strādājusi kopš 22 gadu vecuma un dosies pensijā 2020. gadā; ES vidējais rādītājs: 63,9",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "gadi",
   "textSourceDescription": "Avots",
   "textSource": "ESAO",
   "textNoteDescription": "Piezīme",
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

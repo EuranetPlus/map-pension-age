@@ -1,13 +1,13 @@
 {
-  "heading": "Aktuelles normales Rentenalter in den EU-Ländern",
-  "subheading": "Für eine Person, die seit ihrem 22. Lebensjahr ununterbrochen gearbeitet hat und 2020 in den Ruhestand geht; EU-Durchschnitt: 63,9",
+  "heading": "Aktuelles normales Renteneintrittsalter in ganz Europa",
+  "subheading": "Für eine Person, die seit ihrem 22. Lebensjahr ununterbrochen gearbeitet hat und im Jahr 2020 in den Ruhestand geht; EU-Durchschnitt: 63,9",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Jahre",
   "textSourceDescription": "Quelle",
   "textSource": "OECD",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

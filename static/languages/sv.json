@@ -1,13 +1,13 @@
 {
-  "heading": "Nuvarande normala pensionsålder i EU-länder",
-  "subheading": "För en person som har arbetat kontinuerligt sedan 22 års ålder och som går i pension 2020; EU-genomsnitt: 63,9",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Nuvarande normal pensionsålder i Europa",
+  "subheading": "För en person som har arbetat kontinuerligt sedan 22 års ålder och går i pension 2020; EU-genomsnitt: 63,9",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "år",
   "textSourceDescription": "Källa",
   "textSource": "OECD",
   "textNoteDescription": "Notera",
   "textNote": "",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }
