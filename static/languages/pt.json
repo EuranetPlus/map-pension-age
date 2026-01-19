@@ -1,6 +1,6 @@
 {
   "heading": "Quando as pessoas na Europa costumam se aposentar?",
-  "subheading": "Idade de aposentadoria para alguém que trabalhou continuamente desde os 22 anos e se aposenta em 2022. Média europeia: 64,4 anos.",
+  "subheading": "Idade de aposentadoria para alguém que trabalhou continuamente desde os 22 anos e se aposenta em 2024. Média europeia: 64,7 anos.",
   "legend1": "Não há dados disponíveis.",
   "tooltip1": "anos",
   "textSourceDescription": "Fonte",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Observação",
   "textNote": "",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
+  "linkDataAccess": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CSocial%20policy%23SOC_PRO%23&pg=0&fc=Topic&bp=true&snb=12&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_PAG%40DF_PAG&df[ag]=OECD.ELS.SPD&df[vs]=1.0&dq=. A.CRPLF22%2BFRPLF22%2BGPRR100%2BATRW%2BATRAEP%2BATRPPAE%2BNPRR100%2BGPW100%2BNPW100%2BFR%2BLE%2BER%2BOAWAR%2BELMEA%2BEYLME%2BEDIOP%2BPTOP%2BOCOP%2BCIOP%2BEIOP%2BAWGW%2BOAIP%2BPEP%2BPPEP....&pd=2019%2C2024&to[TIME_PERIOD]=true",
   "textCountryClick": "Clique para mais informações"
 }

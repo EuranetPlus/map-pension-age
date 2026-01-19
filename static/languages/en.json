@@ -1,6 +1,6 @@
 {
   "heading": "When do people in Europe usually retire?",
-  "subheading": "The retirement age for someone who has worked continuously since the age of 22 and retires in 2022. European average: 64.4 years.",
+  "subheading": "The retirement age for someone who has worked continuously since the age of 22 and retires in 2024. European average: 64.7 years.",
   "legend1": "No data available",
   "tooltip1": "years",
   "textSourceDescription": "Source",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
+  "linkDataAccess": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CSocial%20policy%23SOC_PRO%23&pg=0&fc=Topic&bp=true&snb=12&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_PAG%40DF_PAG&df[ag]=OECD.ELS.SPD&df[vs]=1.0&dq=.A.CRPLF22%2BFRPLF22%2BGPRR100%2BATRW%2BATRAEP%2BATRPPAE%2BNPRR100%2BGPW100%2BNPW100%2BFR%2BLE%2BER%2BOAWAR%2BELMEA%2BEYLME%2BEDIOP%2BPTOP%2BOCOP%2BCIOP%2BEIOP%2BAWGW%2BOAIP%2BPEP%2BPPEP....&pd=2019%2C2024&to[TIME_PERIOD]=true",
   "textCountryClick": "Click for more info"
 }

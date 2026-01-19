@@ -1,6 +1,6 @@
 {
   "heading": "À quel âge les Européens prennent-ils généralement leur retraite ?",
-  "subheading": "L'âge de la retraite pour une personne ayant travaillé sans interruption depuis l'âge de 22 ans et prenant sa retraite en 2022. Moyenne européenne : 64,4 ans.",
+  "subheading": "L'âge de la retraite pour une personne ayant travaillé sans interruption depuis l'âge de 22 ans et prenant sa retraite en 2024. Moyenne européenne : 64,7 ans.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "années",
   "textSourceDescription": "Source",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
+  "linkDataAccess": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CSocial%20policy%23SOC_PRO%23&pg=0&fc=Topic&bp=true&snb=12&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_PAG%40DF_PAG&df[ag]=OECD.ELS.SPD&df[vs]=1.0&dq=. A.CRPLF22%2BFRPLF22%2BGPRR100%2BATRW%2BATRAEP%2BATRPPAE%2BNPRR100%2BGPW100%2BNPW100%2BFR%2BLE%2BER%2BOAWAR%2BELMEA%2BEYLME%2BEDIOP%2BPTOP%2BOCOP%2BCIOP%2BEIOP%2BAWGW%2BOAIP%2BPEP%2BPPEP....&pd=2019%2C2024&to[TIME_PERIOD]=true",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

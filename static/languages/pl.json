@@ -1,6 +1,6 @@
 {
   "heading": "Kiedy ludzie w Europie zazwyczaj przechodzą na emeryturę?",
-  "subheading": "Wiek emerytalny dla osoby, która pracowała nieprzerwanie od 22. roku życia i przechodzi na emeryturę w 2022 r. Średnia europejska: 64,4 lat.",
+  "subheading": "Wiek emerytalny dla osoby, która pracowała nieprzerwanie od 22. roku życia i przechodzi na emeryturę w 2024 r. Średnia europejska: 64,7 lat.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "lat",
   "textSourceDescription": "Źródło",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notatka",
   "textNote": "",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
+  "linkDataAccess": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CSocial%20policy%23SOC_PRO%23&pg=0&fc=Topic&bp=true&snb=12&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_PAG%40DF_PAG&df[ag]=OECD.ELS.SPD&df[vs]=1.0&dq=. A.CRPLF22%2BFRPLF22%2BGPRR100%2BATRW%2BATRAEP%2BATRPPAE%2BNPRR100%2BGPW100%2BNPW100%2BFR%2BLE%2BER%2BOAWAR%2BELMEA%2BEYLME%2BEDIOP%2BPTOP%2BOCOP%2BCIOP%2BEIOP%2BAWGW%2BOAIP%2BPEP%2BPPEP....&pd=2019%2C2024&to[OKRES_CZASOWY]=prawda",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

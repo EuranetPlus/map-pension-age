@@ -1,6 +1,6 @@
 {
   "heading": "Кога обикновено се пенсионират хората в Европа?",
-  "subheading": "Пенсионната възраст за лице, което е работило непрекъснато от 22-годишна възраст и се пенсионира през 2022 г. Средно за Европа: 64,4 години.",
+  "subheading": "Пенсионната възраст за лице, което е работило непрекъснато от 22-годишна възраст и се пенсионира през 2024 г. Средно за Европа: 64,7 години.",
   "legend1": "Няма налични данни",
   "tooltip1": "години",
   "textSourceDescription": "Източник",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Забележка",
   "textNote": "",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
+  "linkDataAccess": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CSocial%20policy%23SOC_PRO%23&pg=0&fc=Topic&bp=true&snb=12&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_PAG%40DF_PAG&df[ag]=OECD.ELS.SPD&df[vs]=1.0&dq=. A.CRPLF22%2BFRPLF22%2BGPRR100%2BATRW%2BATRAEP%2BATRPPAE%2BNPRR100%2BGPW100%2BNPW100%2BFR%2BLE%2BER%2BOAWAR%2BELMEA%2BEYLME%2BEDIOP%2BPTOP%2BOCOP%2BCIOP%2BEIOP%2BAWGW%2BOAIP%2BPEP%2BPPEP....&pd=2019%2C2024&to[TIME_PERIOD]=true",
   "textCountryClick": "Кликнете за повече информация"
 }

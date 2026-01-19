@@ -1,6 +1,6 @@
 {
   "heading": "Când se pensionează de obicei oamenii din Europa?",
-  "subheading": "Vârsta de pensionare pentru o persoană care a lucrat continuu de la vârsta de 22 de ani și se pensionează în 2022. Media europeană: 64,4 ani.",
+  "subheading": "Vârsta de pensionare pentru o persoană care a lucrat continuu de la vârsta de 22 de ani și se pensionează în 2024. Media europeană: 64,7 ani.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "ani",
   "textSourceDescription": "Sursă",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://www.oecd.org/els/public-pensions/oecd-pensions-at-a-glance-19991363.htm",
+  "linkDataAccess": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CSocial%20policy%23SOC_PRO%23&pg=0&fc=Topic&bp=true&snb=12&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_PAG%40DF_PAG&df[ag]=OECD.ELS.SPD&df[vs]=1.0&dq=. A.CRPLF22%2BFRPLF22%2BGPRR100%2BATRW%2BATRAEP%2BATRPAE%2BNPRR100%2BGPW100%2BNPW100%2BFR%2BLE%2BER%2BOAWAR%2BELMEA%2BEYLME%2BEDIOP%2BPTOP%2BOCOP%2BCIOP%2BEIOP%2BAWGW%2BOAIP%2BPEP%2BPPEP....&pd=2019%2C2024&până la[PERIOADA_DE_TIMP]=true",
   "textCountryClick": "Faceți clic pentru mai multe informații"
 }
